@@ -1,0 +1,4 @@
+
+
+1. Layout aligning by ConstraintLayout, RelativeLayout, FrameLayout, LinearLayout.
+2. Activity lifecycles events log.
